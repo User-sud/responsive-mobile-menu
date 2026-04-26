@@ -41,7 +41,7 @@ display:none;
 .abrir {
 display: none;
 }
-.cerrar {
+button .cerrar {
 display: none;
 }
 
