@@ -41,6 +41,9 @@ display:none;
 .abrir {
 display: none;
 }
+.cerrar {
+display: none;
+}
 
 @media only screen and (max-width: 600px) {
 .abrir {
